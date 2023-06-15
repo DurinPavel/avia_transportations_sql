@@ -13,7 +13,7 @@
         <hr>
     </p>
     <table>
-    <tr><th>Название самолета</th><th>Количество посадочных мест</th>
+    <tr><th>Name of the aircraft</th><th>Number of seats</th>
     </tr><tr class="odd"><td>Cessna 208 Caravan</td><td>12</td></tr>
     </table>
 </b></body>
