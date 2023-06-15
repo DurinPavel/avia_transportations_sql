@@ -12,4 +12,8 @@
         <img src="https://github.com/DurinPavel/avia_transportations_sql/blob/main/images/postgres_bookings.png" alt="Screenshot of the database diagram" width=80%>
         <hr>
     </p>
+    <table>
+    <tr><th>Название самолета</th><th>Количество посадочных мест</th>
+    </tr><tr class="odd"><td>Cessna 208 Caravan</td><td>12</td></tr>
+    </table>
 </b></body>
