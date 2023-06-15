@@ -6,9 +6,10 @@
       the use of methods of filtering, aggregation, grouping, building subqueries,
       joining tables, the ability to work with window functions, CTE, methods of working with arrays.
       The project also uses additional modules earthdistance and cube.
+      <hr>  
     </p>
     <p align="center">
-        <img src="https://github.com/DurinPavel/citylink_parsing/blob/main/images/citilink.ru_.png" alt="Screenshot of the citylink page" width=80%>
+        <img src="https://github.com/DurinPavel/avia_transportations_sql/blob/main/images/postgres_bookings.png" alt="Screenshot of the database diagram" width=80%>
         <hr>
         <img src="https://github.com/DurinPavel/citylink_parsing/blob/main/images/dataframe.png" alt="Screenshot of the dataframe" width=100%>
     </p>
