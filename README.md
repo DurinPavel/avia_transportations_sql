@@ -11,6 +11,5 @@
     <p align="center">
         <img src="https://github.com/DurinPavel/avia_transportations_sql/blob/main/images/postgres_bookings.png" alt="Screenshot of the database diagram" width=80%>
         <hr>
-        <img src="https://github.com/DurinPavel/citylink_parsing/blob/main/images/dataframe.png" alt="Screenshot of the dataframe" width=100%>
     </p>
 </b></body>
