@@ -9,10 +9,10 @@
       <hr>  
     </p>
     <p align="center">
-        <img src="https://github.com/DurinPavel/avia_transportations_sql/blob/main/images/postgres_bookings.png" alt="Screenshot of the database diagram" width=80%>
+        <img src="https://github.com/DurinPavel/avia_transportations_sql/blob/main/images/postgres_bookings.png" alt="Screenshot of the database diagram" width=100%>
         <hr>
-        <img src="https://github.com/DurinPavel/avia_transportations_sql/blob/main/images/screenshot_1.png" alt="Screenshot of query results 1" width=53%>
-        <img src="https://github.com/DurinPavel/avia_transportations_sql/blob/main/images/screenshot_2.png" alt="Screenshot of query results 2" width=46%>
+        <img src="https://github.com/DurinPavel/avia_transportations_sql/blob/main/images/screenshot_1.png" alt="Screenshot of query results 1" width=100%>
+        <img src="https://github.com/DurinPavel/avia_transportations_sql/blob/main/images/screenshot_2.png" alt="Screenshot of query results 2" width=100%>
         <hr>
     </p>
 </b></body>
