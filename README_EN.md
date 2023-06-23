@@ -1,4 +1,6 @@
 <body><b>
+    <a href="https://github.com/DurinPavel/avia_transportations_sql/blob/main/README.md" target="_blank">
+        <p>Russian version</p></a>
     <p align="justify">
       The purpose of this project is to obtain information
       from the Air Transportation database by generating SQL queries. 
